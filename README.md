@@ -6,6 +6,7 @@ A high performance drawing of fillets and shadows for the section of the tablevi
 
   //给section添加圆角
   [cell addShadowToSectionTableView:tableView atIndexPath:indexPath];
+  
   // 给section加阴影
   [cell addShadowToCellInTableView:tableView atIndexPath:indexPath];
 
